@@ -1,6 +1,6 @@
 # CS300 (Programming II) Projects
 
-These are all of the projects that were assigned to me during the time I was taking this course. I didn't think far enough ahead to save the prompts for these projects, so the  section under each project is just my best guess of what the project was trying to teach us.
+These are all of the projects that were assigned to me during the time I was taking this course. I didn't think far enough ahead to save the prompts for these projects, so the section under each project is just my best guess of what the project was trying to teach us.
 
 ## Project 1: Climbing Tracker
 
@@ -60,4 +60,4 @@ These are all of the projects that were assigned to me during the time I was tak
 
 ---
 
-I haven't found anything in the files that says I shouldn't be allowed to post this after completing the course (like other courses, I'm looking at you, Deb!), but if anyone has a problem with me posting this, just shoot me an email at max.r.rountree@gmail.com.
+I haven't found anything in the files that says I shouldn't be allowed to post this after completing the course, but if anyone has a problem with me posting this, please email me at max.r.rountree@gmail.com.
